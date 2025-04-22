@@ -58,6 +58,8 @@ plt.show()
 ## OUTPUT WAVEFORM
 ![image](https://github.com/user-attachments/assets/f29e540b-f803-4605-aa03-4f9ffbf00d4f)
 ## Graph
+![WhatsApp Image 2025-04-22 at 10 57 13_51329e23](https://github.com/user-attachments/assets/d6e4223b-453e-4aae-bf67-7a764e1cee71)
+
 
 ## Result
 THUS THE ASK (Amplitude Shift Keying) IS PERFORMED USING PYTHON.
